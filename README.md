@@ -1,14 +1,14 @@
-# AI From Scratch 🧠
+# AI From Scratch
 
 Learning and implementing Artificial Intelligence and Machine Learning concepts from scratch using Python.
 
-## 🎯 Goal
+## Goal
 
 Build a strong understanding of AI and Machine Learning by implementing the underlying concepts myself before relying on high-level frameworks.
 
 The goal is to understand what happens behind libraries such as NumPy, Scikit-learn, TensorFlow, and PyTorch.
 
-## 📚 Learning Path
+## Learning Path
 
 ### Python Foundations
 
@@ -66,7 +66,7 @@ The goal is to understand what happens behind libraries such as NumPy, Scikit-le
 - [ ] Mini GPT
 - [ ] Fine-tuning
 
-## 🛠️ Technologies
+## Technologies
 
 - Python
 - NumPy
@@ -75,7 +75,7 @@ The goal is to understand what happens behind libraries such as NumPy, Scikit-le
 - Scikit-learn
 - PyTorch
 
-## 🚀 Philosophy
+## Philosophy
 
 Learn → Implement → Experiment → Document → Build
 
